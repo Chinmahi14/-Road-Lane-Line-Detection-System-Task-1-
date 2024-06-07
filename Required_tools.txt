@@ -1,0 +1,7 @@
+Road_line Detection System:
+
+Requried libraries:
+	1.opencv-python.
+	2.numpy.
+Requried video:	
+	test_video.mp4(from Kaggle.com)
